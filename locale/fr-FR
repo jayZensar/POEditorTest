@@ -1,1 +1,8 @@
-
+{
+    "Most deposits are instant, but you may experience a slight delay depending on the deposit method": {
+        "DepositeBoxText": "Texto de la caja de depósito"
+    },
+    "Deposit funds": {
+        "depositFunds": ""
+    }
+}
