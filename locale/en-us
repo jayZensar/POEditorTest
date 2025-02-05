@@ -1,4 +1,4 @@
-"Most deposits are instant, but you may experience a slight delay depending on the deposit method": 
-  DepositeBoxText: 
-Deposit funds: 
-  depositFunds: 
+{
+  "Selected": "Selected",
+  "BACK_BUTTON": "BACK"
+}
