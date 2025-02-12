@@ -1,4 +1,7 @@
 {
   "Selected": "Seleccionado",
-  "BACK_BUTTON": "BOTÓN ATRÁS"
+  "BACK_BUTTON": "BOTÓN ATRÁS",
+  "BACK_TO_DOCUMENTS": "VOLVER A LOS DOCUMENTOS",
+  "BACK_TO_PROFILE": "",
+  "Document": ""
 }
