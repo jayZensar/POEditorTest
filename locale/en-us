@@ -1,4 +1,7 @@
 {
   "Selected": "Selected",
-  "BACK_BUTTON": "BACK"
+  "BACK_BUTTON": "BACK",
+  "BACK_TO_DOCUMENTS": "BACK TO DOCUMENTS",
+  "BACK_TO_PROFILE": "",
+  "Document": ""
 }
